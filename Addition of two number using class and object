@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class Main{
+    static int sum;
+    public static void Hello(){
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Please Enter the value of a: ");
+        int a=sc.nextInt();
+        System.out.println("Please Enter the value of b: ");
+        int b=sc.nextInt();
+        sum=a+b;
+    }
+    public static void main(String []args){
+        
+        Hello();
+        System.out.println("Addition of two numbers are = " +sum);
+            
+        }
+}
