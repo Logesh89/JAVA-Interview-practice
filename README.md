@@ -7,3 +7,8 @@ ascending order.
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/107561275/213927316-49073218-3b5d-423e-8a3d-fc1448c874f9.png)
 
+3)Java program to reverse the string using array.
+
+![Screenshot (33)](https://user-images.githubusercontent.com/107561275/215303642-7d0c1ca5-523b-4c25-938d-822dfa7bbd77.png)
+
+
