@@ -11,4 +11,9 @@ ascending order.
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/107561275/215303642-7d0c1ca5-523b-4c25-938d-822dfa7bbd77.png)
 
+4) Create addion of two numbers using class and objects in java programming
+
+![Screenshot (34)](https://user-images.githubusercontent.com/107561275/215313301-8f345a9d-609d-4e55-a5a6-e677786a3e3b.png)
+
+
 
