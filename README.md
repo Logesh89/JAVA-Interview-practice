@@ -15,5 +15,10 @@ ascending order.
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/107561275/215313301-8f345a9d-609d-4e55-a5a6-e677786a3e3b.png)
 
+5) Java program create a calculator.
+
+![Screenshot (35)](https://user-images.githubusercontent.com/107561275/215540173-3b9e2df7-22b0-46b4-a2c7-5f5d34b7dd06.png)
+
+
 
 
