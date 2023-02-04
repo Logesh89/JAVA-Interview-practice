@@ -44,6 +44,10 @@ ascending order.
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/107561275/216779387-d1491d5b-2967-4914-95f3-df3f27aac7cd.png)
 
+12) Java program to count the numbers even and odd numbers given by the user.
+
+![Screenshot (42)](https://user-images.githubusercontent.com/107561275/216782045-2461b1dc-fea4-498a-8121-cf4fec864806.png)
+
 
 
 
