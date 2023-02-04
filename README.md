@@ -19,6 +19,11 @@ ascending order.
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/107561275/215540173-3b9e2df7-22b0-46b4-a2c7-5f5d34b7dd06.png)
 
+6) Java program to swapping of two numbers.
+
+![Screenshot (36)](https://user-images.githubusercontent.com/107561275/216763343-16e97ad5-58d0-487f-b025-b63d00695e61.png)
+
+
 
 
 
