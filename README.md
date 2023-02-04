@@ -31,6 +31,13 @@ ascending order.
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/107561275/216771459-46af016a-1fe3-4a2e-b089-95fa98a1167a.png)
 
+9) Java program to find palindrome.
+
+![Screenshot (39)](https://user-images.githubusercontent.com/107561275/216776583-9e678c94-f45e-4de4-8014-f59d616d03b7.png)
+
+
+
+
 
 
 
