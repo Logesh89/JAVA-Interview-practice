@@ -1,0 +1,25 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) 
+	{
+	    Scanner sc=new Scanner(System.in);
+	    int a=sc.nextInt();
+	    int org_a=a;
+	    int rev=0;
+	    while(a!=0)
+	    {
+	        rev=rev*10+a%10;   //Returns last digit
+	        a=a/10;           //Eliminates the last digit
+	    }
+		//System.out.println("After reverse  are: "+rev);
+		if(org_a==rev)
+		{
+		    System.out.println(org_a+"\nPallindrome");
+		}
+		else
+		{
+		    System.out.println(org_a+"\nNot Pallindrome");
+		}
+	}
+}
