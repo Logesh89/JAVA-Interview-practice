@@ -23,6 +23,11 @@ ascending order.
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/107561275/216763343-16e97ad5-58d0-487f-b025-b63d00695e61.png)
 
+7) java program to reverse the numbers.
+
+![Screenshot (37)](https://user-images.githubusercontent.com/107561275/216766959-a86b71a9-ca6f-47d7-8828-da9a532129c2.png)
+
+
 
 
 
