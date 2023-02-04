@@ -40,7 +40,9 @@ ascending order.
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/107561275/216778163-973a93de-81b7-4ee4-ab90-f06279703fdb.png)
 
+11) Java program to count the numbers.
 
+![Screenshot (41)](https://user-images.githubusercontent.com/107561275/216779387-d1491d5b-2967-4914-95f3-df3f27aac7cd.png)
 
 
 
