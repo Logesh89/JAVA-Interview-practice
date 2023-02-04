@@ -29,6 +29,9 @@ ascending order.
 
 8) Java program to reverse the string method.
 
+![Screenshot (38)](https://user-images.githubusercontent.com/107561275/216771459-46af016a-1fe3-4a2e-b089-95fa98a1167a.png)
+
+
 
 
 
