@@ -1,0 +1,38 @@
+//Two coditions for finding prime or not
+// 1)number should be >1
+// 2)then it should have only two factors like 19=> 1 and 19 itself a prime number.
+
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc = new Scanner(System.in);
+	    int a=sc.nextInt();
+	    int count=0;
+	    if(a>1)
+	    {
+	        for(int i=1;i<=a;i++)
+	        {
+	            if (a%i==0)
+	            {
+	                count++;
+	            }
+	        }
+	            if(count==2)
+	            {
+	                System.out.println("Its is prime number");
+	            }
+	            else
+	            {
+	                System.out.println("Not a prime number");
+	            }
+	        
+	    }
+	    else{
+	        System.out.println("Not a prime number");
+	    }
+	    
+	    
+	}
+}
