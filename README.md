@@ -84,6 +84,11 @@ ascending order.
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/107561275/216824768-96859572-575e-47e4-9f4b-48e73891ea25.png)
 
+22) Java program to find the missing number in the array with user input
+
+![Screenshot (53)](https://user-images.githubusercontent.com/107561275/216830571-35cc0aec-60d8-4121-9622-918f6e5e28cd.png)
+
+
 
 
 
