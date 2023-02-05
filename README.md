@@ -76,6 +76,14 @@ ascending order.
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/107561275/216811106-669e0765-6cc9-460a-9f6d-0141724a3dd5.png)
 
+20) Java program to check even and odd numbers in the user input Array. 
+
+![Screenshot (51)](https://user-images.githubusercontent.com/107561275/216824661-8239403c-2b03-4c89-bdea-36129bb0234a.png)
+
+21) Java program to check equality two array with  user input.
+
+![Screenshot (52)](https://user-images.githubusercontent.com/107561275/216824768-96859572-575e-47e4-9f4b-48e73891ea25.png)
+
 
 
 
