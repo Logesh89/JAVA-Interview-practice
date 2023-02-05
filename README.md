@@ -68,6 +68,11 @@ ascending order.
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/107561275/216806967-d9737aec-7878-41be-8976-dfedb841a432.png)
 
+18) Java program to find a factorial
+
+![Screenshot (49)](https://user-images.githubusercontent.com/107561275/216807871-a2401b69-3352-403d-8cbb-682916d529d3.png)
+
+
 
 
 
