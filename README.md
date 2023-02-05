@@ -48,6 +48,12 @@ ascending order.
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/107561275/216782045-2461b1dc-fea4-498a-8121-cf4fec864806.png)
 
+13) Java program to sum the number of digits.
+
+![Screenshot (44)](https://user-images.githubusercontent.com/107561275/216800926-f192eeef-44a6-40f5-9bbd-18445af40b2d.png)
+
+
+
 
 
 
