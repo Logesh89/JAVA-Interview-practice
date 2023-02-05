@@ -72,6 +72,12 @@ ascending order.
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/107561275/216807871-a2401b69-3352-403d-8cbb-682916d529d3.png)
 
+19)Java program to find the sum of Array elements.
+
+![Screenshot (50)](https://user-images.githubusercontent.com/107561275/216811106-669e0765-6cc9-460a-9f6d-0141724a3dd5.png)
+
+
+
 
 
 
