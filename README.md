@@ -88,6 +88,13 @@ ascending order.
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/107561275/216830571-35cc0aec-60d8-4121-9622-918f6e5e28cd.png)
 
+23) Java program to find the minimum and maximum value of an Array using user input.
+
+![Screenshot (54)](https://user-images.githubusercontent.com/107561275/216835194-d4eda9b1-fc42-4ce2-a888-5273077d898f.png)
+
+
+
+
 
 
 
