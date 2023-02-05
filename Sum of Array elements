@@ -1,0 +1,26 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) 
+	{
+	    Scanner sc=new Scanner(System.in);
+	    int a=sc.nextInt();
+	    int sum=0;
+	    int[] arr= new int[a];
+	    /*for(int i=0;i<a;i++)                      //using For Loop
+	    {
+	        arr[i]=sc.nextInt();
+	        sum = sum + arr[i];
+	        
+	    }*/
+	    
+	    for(int value:arr)                          //Using Enhanced For Loop
+	    {
+	        arr[value]=sc.nextInt();
+	        sum=sum+arr[value];
+	    }
+	    System.out.println("Sum:"+sum);
+	    
+		
+	}
+}
