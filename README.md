@@ -60,6 +60,11 @@ ascending order.
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/107561275/216803057-d0c07160-41d6-47e9-8a9f-2da68d633e03.png)
 
+16) Java program to check the given number is prime or not.
+
+![Screenshot (47)](https://user-images.githubusercontent.com/107561275/216805447-2ea79459-a5c9-40ad-9a6d-0e09c96bc514.png)
+
+
 
 
 
