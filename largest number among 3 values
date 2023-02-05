@@ -1,0 +1,41 @@
+//Method:-1
+
+/*import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int c=sc.nextInt();
+		if(a>b && a>c)
+		{
+		    System.out.println(a+" is largest number");
+		}
+		else if (b>a && b>c)
+		{
+		    System.out.println(b+" is largest number"); 
+		}
+		else{
+		    System.out.println(c+" is largest number");
+		}
+	}
+}*/
+
+
+
+//Method:-2 using ternary opperator(?:)
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int c=sc.nextInt();
+		int largest=a>b?a:b;
+		int largest1=c>largest?c:largest;
+		System.out.println(largest1+" is largest number");
+	}
+}
