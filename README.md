@@ -64,12 +64,9 @@ ascending order.
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/107561275/216805447-2ea79459-a5c9-40ad-9a6d-0e09c96bc514.png)
 
+17) Java program to generate the random numbers.
 
-
-
-
-
-
+![Screenshot (48)](https://user-images.githubusercontent.com/107561275/216806967-d9737aec-7878-41be-8976-dfedb841a432.png)
 
 
 
