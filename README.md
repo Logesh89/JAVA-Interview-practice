@@ -92,6 +92,24 @@ ascending order.
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/107561275/216835194-d4eda9b1-fc42-4ce2-a888-5273077d898f.png)
 
+24) Given an array of non-negative integers, you are initially positioned at the first index of the array. Each element in the array represents your jump length at that position. Determine if you can reach the last index.
+
+Example 1:
+
+Input (2,3,1,1,4]
+
+Output: true
+
+Example 2:
+
+Input [3,2,1,0,4)
+
+Output: false
+
+![Screenshot (55)](https://user-images.githubusercontent.com/107561275/216981540-ab03dd4b-6767-47e7-858d-3847a7d8b30d.png)
+
+
+
 
 
 
