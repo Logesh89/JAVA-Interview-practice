@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int n = sc.nextInt();
+    int[] nums = new int[n];
+    for (int i = 0; i < n; i++) {
+      nums[i] = sc.nextInt();
+    }
+    System.out.println(end(nums));
+  }
+  public static boolean end(int[] nums) {
+    int a = 0;
+    int b = nums.length - 1;
+    for (int i = 0; i <= a && a < b; i++) {
+      a = Math.max(a, i + nums[i]);
+    }
+    return a >= b;
+  }
+}
