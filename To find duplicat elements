@@ -1,0 +1,31 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		char b[]=new char[a];
+		for(int i=0;i<a;i++)
+		{
+		    b[i]=sc.next().charAt(0);
+		}
+		boolean arr=false;
+		for(int j=0;j<a;j++)
+		{
+		    for(int k=j+1;k<a;k++)
+		    {
+		        if(b[j]==b[k])
+		        {
+		            System.out.println("Found duplicate element: "+b[j]);
+		            arr=true;
+		        }
+		        
+		    }
+		}
+		if(arr==false)
+		{
+		    System.out.println("Dupicate element not found");
+		}
+		
+	}
+}
