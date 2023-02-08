@@ -108,8 +108,9 @@ Output: false
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/107561275/216981540-ab03dd4b-6767-47e7-858d-3847a7d8b30d.png)
 
+25) Java program to find the duplicate elements.
 
-
+![Screenshot (56)](https://user-images.githubusercontent.com/107561275/217591893-86c29a41-3817-4c28-bb60-85cb4475dffd.png)
 
 
 
