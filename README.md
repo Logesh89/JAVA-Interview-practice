@@ -146,6 +146,8 @@ Sample Output
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
+
+
 ![Screenshot (59)](https://user-images.githubusercontent.com/107561275/221392123-6c79707e-8482-4730-a482-650016020975.png)
 
 
