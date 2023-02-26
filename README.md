@@ -155,6 +155,11 @@ Sample Output
 
 ![Screenshot (62)](https://user-images.githubusercontent.com/107561275/221395444-2093dcd0-1890-4153-8e49-465e72b59bf4.png)
 
+28) Java program to find the primitive data types of Byte,Int ,Short ,Long.
+
+![Screenshot (63)](https://user-images.githubusercontent.com/107561275/221398117-e044380d-4f8a-4f5a-8a86-716274c5350b.png)
+
+
 
 
 
