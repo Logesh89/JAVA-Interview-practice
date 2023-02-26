@@ -150,6 +150,12 @@ Sample Output
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/107561275/221392123-6c79707e-8482-4730-a482-650016020975.png)
 
+27) Java program to find the series 
+![Screenshot (60)](https://user-images.githubusercontent.com/107561275/221395345-b25c218f-8c3a-4c60-becf-d0253f8d7b4e.png)
+
+![Screenshot (62)](https://user-images.githubusercontent.com/107561275/221395444-2093dcd0-1890-4153-8e49-465e72b59bf4.png)
+
+
 
 
 
