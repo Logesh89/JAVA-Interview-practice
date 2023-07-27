@@ -1,0 +1,27 @@
+import java.util.*;
+public class Armstrong {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt(); //153
+		int r1=n%10; //3
+		int r2=r1*r1*r1; //27
+		int r3=n/10; //15
+		int r4=r3%10; //5
+		int r5=r4*r4*r4; //125
+		int r6=r3/10; //1
+		int r7=r6*r6*r6; //1
+		int rem=r2+r5+r7;
+		if(n==rem)
+		{
+			System.out.print("Amstrong");
+		}
+		else
+		{
+			System.out.print("not amstrong");
+		}
+		
+		
+	}
+
+}
