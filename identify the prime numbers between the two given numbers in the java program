@@ -1,0 +1,35 @@
+import java.util.*;
+
+public class Main
+{
+	public static void main(String[] args) {
+	    int i,j;
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		int m=sc.nextInt();
+		for(i=n;i<=m;i++){
+		    for( j=2;j<=i;j++){
+		        if(i%j==0){
+		            break;
+		        }
+		    }
+		    if(i==j){
+		        System.out.println(j);
+		    }
+		    
+		}
+	}
+}
+
+
+
+
+input:
+10
+20
+
+output:
+11
+13
+17
+19
